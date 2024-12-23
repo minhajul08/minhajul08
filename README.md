@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minhajul Islam Nirob</h1>
-<h3 align="center">🚀 About Me Hi there! I'm a professional MERN stack developer with a passion for building scalable and efficient web applications. I specialize in crafting seamless front-end user experiences and powerful back-end systems.</h3>
+<h3 align="center"> Hi there! I'm a professional MERN stack developer with a passion for building scalable and efficient web applications. I specialize in crafting seamless front-end user experiences and powerful back-end systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajul08&label=Profile%20views&color=0e75b6&style=flat" alt="minhajul08" /> </p>
 
