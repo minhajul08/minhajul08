@@ -1,4 +1,5 @@
-![MERN Stack Developer](https://i.ibb.co/QYJyqLq/DALL-E-2024-12-23-16-09-26-A-creative-and-modern-illustration-representing-a-MERN-stack-developer-fe.webp)
+<img src="https://i.ibb.co/QYJyqLq/DALL-E-2024-12-23-16-09-26-A-creative-and-modern-illustration-representing-a-MERN-stack-developer-fe.webp" width="100%" height="auto" />
+
 
 
 <h1 align="center">Hi 👋, I'm Minhajul Islam Nirob</h1>
